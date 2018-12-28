@@ -1,2 +1,2 @@
 # DirtDevilM607
-Reprogrmming the stupid Dirt Devil M607
+Reprogramming the stupid Dirt Devil M607
